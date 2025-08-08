@@ -52,3 +52,7 @@ Script çalıştırıldığında aşağıdaki gibi bir çıktı üretir:
 Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
 
 ---
+
+!**/*.zip
+*
+
