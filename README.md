@@ -54,5 +54,6 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 ---
 
 !**/*.zip
+
 *
 
