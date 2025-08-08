@@ -53,7 +53,5 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 ---
 
-!**/*.zip
-
-*
+<pre lang="md"> \```txt !**/*.zip * \``` </pre>
 
