@@ -53,5 +53,12 @@ Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasın
 
 ---
 
-<pre lang="md"> \```txt !**/*.zip * \``` </pre>
+## Syncthing .stignore Ayarları
+
+Sadece `.zip` dosyalarının senkronize edilmesi için `.stignore` dosyasına aşağıdaki içerik yazılmalıdır:
+
+```txt
+!**/*.zip
+*
+
 
